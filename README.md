@@ -1,4 +1,4 @@
-# imp-cmd-linux
+# imp-Docker
 
 docker image build -t dockerfile .
 docker build -t springrestservices -f /home/openshift/springrestservices .
